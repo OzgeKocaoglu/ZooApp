@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Zoo.unity
+    guid: 0606d11ca88ac6d418dea6fbaac09423
   m_configObjects: {}
