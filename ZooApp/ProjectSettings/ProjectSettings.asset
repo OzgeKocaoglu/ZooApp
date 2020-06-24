@@ -572,6 +572,10 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
+    Build: 0
+    Collab: 1
+    ErrorHub: 0
+    Hub: 0
     UNet: 1
   luminIcon:
     m_Name: 
@@ -592,9 +596,9 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 50164135-c106-4a93-b63b-9cfd51251a92
+  cloudProjectId: 56417944-369e-4157-8830-e8d5f47ef695
   framebufferDepthMemorylessMode: 0
-  projectName: ZooApp
+  projectName: ZooApp (1)
   organizationId: ozgekocaoglu
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
